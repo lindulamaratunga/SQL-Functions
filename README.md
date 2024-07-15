@@ -1,4 +1,4 @@
-# Stored Procedures, Functions and Builtin Functions
+# Stored Procedures, Functions, Views, Triggers and built-in Functions
 
 [1. Aggregate Functions (MAX, MIN, AVG, COUNT, SUM) in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2011.%20MAX%2C%20MIN%2C%20AVG%2C%20COUNT%2C%20SUM.pdf)
 
