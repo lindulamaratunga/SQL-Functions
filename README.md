@@ -12,6 +12,4 @@
 
 [6. Views and Triggers in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2018.%20Views%20and%20Triggers.pdf)
 
-[7. Logical Operators (IN, ANY, ALL, >=, <=, AND, OR, NOT) in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2021.%20IN%2C%20ANY%2C%20ALL%2C%20AND%2C%20OR%2C%20NOT.pdf)
-
-[8. String Concatenation & Splitting in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2023%20CONCAT%20%26%20Split%20a%20String.pdf)
+[7. String Concatenation & Splitting in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2023%20CONCAT%20%26%20Split%20a%20String.pdf)
