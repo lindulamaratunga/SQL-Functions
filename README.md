@@ -1,15 +1,17 @@
 # Stored Procedures, Functions, Views, Triggers and built-in Functions
 
-[1. Aggregate Functions (MAX, MIN, AVG, COUNT, SUM) in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2011.%20MAX%2C%20MIN%2C%20AVG%2C%20COUNT%2C%20SUM.pdf)
+[01. Aggregate Functions (MAX, MIN, AVG, COUNT, SUM) in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2011.%20MAX%2C%20MIN%2C%20AVG%2C%20COUNT%2C%20SUM.pdf)
 
-[2. ISNULL in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2012.%20ISNULL.pdf)
+[02. ISNULL in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2012.%20ISNULL.pdf)
 
-[3. String Functions (RTRIM, LTRIM & TRIM) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
+[03. String Functions (RTRIM, LTRIM & TRIM) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
 
-[4. Functions in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2016.%20Functions.pdf)
+[04. Functions in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2016.%20Functions.pdf)
 
-[5. Stored Procedures in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2017.%20Stored%20Procedures.pdf)
+[05. Stored Procedures in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2017.%20Stored%20Procedures.pdf)
 
-[6. Views and Triggers in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2018.%20Views%20and%20Triggers.pdf)
+[06. Views and Triggers in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2018.%20Views%20and%20Triggers.pdf)
 
-[7. String Concatenation & Splitting in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2023%20CONCAT%20%26%20Split%20a%20String.pdf)
+[07. String Concatenation & Splitting in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2023%20CONCAT%20%26%20Split%20a%20String.pdf)
+
+[08. Date Time in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2026.%20DateTimeInSQLServer.pdf)
