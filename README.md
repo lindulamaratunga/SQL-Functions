@@ -18,4 +18,4 @@
 
 [09. Date Time in MySQL](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2027.%20DATE%20and%20TIME%20in%20MySQL.pdf)
 
-[10. String Functions (LOWER, UPPER, LEFT & RIGHT) in SQL](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2028.%20String%20Functions(LOWER%2C%20UPPER%2C%20LEFT%20%26%20RIGHT)%20in%20SQL.pdf)
+[10. String Functions (LOWER, UPPER, LEFT & RIGHT) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2028.%20String%20Functions(LOWER%2C%20UPPER%2C%20LEFT%20%26%20RIGHT)%20in%20SQL.pdf)
