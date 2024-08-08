@@ -4,7 +4,7 @@
 
 [02. ISNULL in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2012.%20ISNULL.pdf)
 
-[03. String Functions (RTRIM, LTRIM & TRIM) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
+[03. String Functions (RTRIM, LTRIM, TRIM) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
 
 [04. Creating User declared Functions in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2016.%20Functions.pdf)
 
